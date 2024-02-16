@@ -1,5 +1,6 @@
 
-![Uploading Gemini_Generated_Image.jpeg…]()
+![Gemini_Generated_Image](https://github.com/ccbirk/sorting_algorithms/assets/141487706/40715fe6-ef7c-47db-bfb1-886ca704f803)
+
 
 Taming the Chaos: Your Guide to Sorting Algorithms
 Image of 
